@@ -3,4 +3,4 @@ https://docs.microsoft.com/zh-tw/aspnet/core/tutorials/first-mvc-app/start-mvc?v
 
 dotnet ef database update
 
-dotnet publish --configuration Release --output d:\dc_mvc
+dotnet publish --configuration Release --output d:\dc_mvc 
